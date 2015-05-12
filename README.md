@@ -19,5 +19,9 @@ This repo is based on Django1.8 and its tutorials **Writing your first Django ap
 ### Part 2 The admin site
 - Add admin site to add and edit questions.
 
-### Part 3 views
+### Part 3 Views and templates 
 - This tutorial provides basic instruction in the use of URLconfs, and you can refer to django.core.urlresolvers for more information.
+
+### Part 4 Forms and generic views
+- Write a simple form
+- Use generic views: Less code is better
